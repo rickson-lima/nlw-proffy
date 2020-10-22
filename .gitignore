@@ -1,0 +1,4 @@
+node_modules
+fake_db.js
+test.js
+database.sqlite
