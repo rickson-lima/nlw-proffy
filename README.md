@@ -3,7 +3,7 @@
     <br>
     <div>
         <img src="https://img.shields.io/badge/license-MIT-brightgreen">
-        <img src="https://img.shields.io/badge/languages-4-blue">
+        <img src="https://img.shields.io/badge/languages-3-blue">
     </div>
     <h1>Proffy 👨‍🏫</h1>
 </div>
